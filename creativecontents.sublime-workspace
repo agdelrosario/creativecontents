@@ -1,0 +1,611 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"spla",
+				"splash-content"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"sp",
+				"splash-content"
+			],
+			[
+				"m",
+				"min-width"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"top",
+				"top-navigation"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"text-d",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"max-h",
+				"max-height"
+			],
+			[
+				"query_",
+				"query_facebook_id"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"query",
+				"query_facebook_id"
+			],
+			[
+				"facebook",
+				"facebook_user_accounts"
+			],
+			[
+				"faceboo",
+				"facebook_username"
+			],
+			[
+				"face",
+				"facebook_username"
+			],
+			[
+				"event",
+				"event_name"
+			],
+			[
+				"cont",
+				"contact_list"
+			],
+			[
+				"transaction",
+				"transaction_no"
+			],
+			[
+				"subscri",
+				"subscription_bank"
+			],
+			[
+				"subsc",
+				"subscription_id"
+			],
+			[
+				"subscriptions",
+				"subscriptions"
+			],
+			[
+				"subscrip",
+				"subscription_valid"
+			],
+			[
+				"user",
+				"user_subscriptions"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"subscription",
+				"subscription_type"
+			],
+			[
+				"now",
+				"now"
+			],
+			[
+				"subscr",
+				"subscriptions"
+			],
+			[
+				"tra",
+				"transaction_no"
+			],
+			[
+				"session",
+				"session_id"
+			],
+			[
+				"sessio",
+				"session_id"
+			],
+			[
+				"faceb",
+				"facebook_id"
+			],
+			[
+				"result_fb_",
+				"result_fb_id"
+			],
+			[
+				"facebo",
+				"facebook_username"
+			],
+			[
+				"result",
+				"result_username"
+			],
+			[
+				"com",
+				"company"
+			],
+			[
+				"bank_",
+				"bank_transaction_no"
+			],
+			[
+				"subst",
+				"substr_replace"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"exists",
+				"exists_in_calendar"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "wp-content/themes/paperplanes/index.html",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: HTML (Tcl)"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/index.php",
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/header.php",
+		"/C/xampp2/htdocs/creativecontents/index.php",
+		"/C/Users/Aletheia Grace/Portfolio/index.html.txt",
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/footer.php",
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/sidebar.php",
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/style.css",
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/css/style.css",
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/style_old.css",
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/index_old.php",
+		"/C/xampp2/htdocs/creativecontents/wp-content/themes/paperplanes/index_draft.php",
+		"/C/xampp2/htdocs/creativecontents/wp-config.php",
+		"/C/xampp2/htdocs/creativecontents/wp-config-sample.php",
+		"/C/xampp2/htdocs/creativecontents/css/style.css",
+		"/C/xampp2/htdocs/creativecontents/css/old.css",
+		"/C/xampp2/htdocs/creativecontents/images/spacer.png",
+		"/C/xampp2/htdocs/optimizer/css/basic.css",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/paperplanes/sidebar.php",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/paperplanes/index.php",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/paperplanes/footer.php",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/paperplanes/header.php",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/paperplanes/style.css",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/ambrosia/footer.php",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/ambrosia/sidebar.php",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/ambrosia/index.php",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/ambrosia/header.php",
+		"/C/xampp2/htdocs/creativecontents/wordpress/wp-content/themes/ambrosia/style.css",
+		"/C/xampp2/htdocs/prospicks/application/controllers/search.php",
+		"/C/xampp2/htdocs/prospicks/test.php",
+		"/C/xampp2/htdocs/prospicks/application/models/email.php",
+		"/C/xampp2/htdocs/prospicks/application/models/clientdata.php",
+		"/C/xampp2/htdocs/prospicks/application/config/autoload.php",
+		"/C/xampp2/htdocs/prospicks/application/models/parse.php",
+		"/C/xampp2/htdocs/prospicks/application/config/config.php",
+		"/C/xampp2/htdocs/prospicks/application/config/routes.php",
+		"/C/xampp2/htdocs/prospicks/application/controllers/prospects.php",
+		"/C/xampp2/htdocs/prospicks/application/views/profile.php",
+		"/C/xampp2/htdocs/prospicks/application/controllers/users.php",
+		"/C/xampp2/htdocs/prospicks/application/views/facebook_login.php",
+		"/C/xampp2/htdocs/prospicks/application/models/userdata.php",
+		"/C/xampp2/htdocs/prospicks/application/views/search.php",
+		"/C/xampp2/htdocs/prospicks/application/views/search_history.php",
+		"/C/xampp2/htdocs/prospicks/application/views/header.php",
+		"/C/xampp2/htdocs/prospicks/application/views/generated_calendar.php",
+		"/C/xampp2/htdocs/prospicks/application/views/dashboard_header.php",
+		"/C/xampp2/htdocs/prospicks/ui/dashboard.php",
+		"/C/xampp2/htdocs/prospicks/application/views/search_results.php",
+		"/C/xampp2/htdocs/prospicks/ui/css/main.css",
+		"/C/xampp2/htdocs/prospicks/application/views/dashboard.php",
+		"/C/xampp2/htdocs/prospicks/application/views/register_user.php",
+		"/C/xampp2/htdocs/prospicks/application/views/login.php",
+		"/C/xampp2/htdocs/prospicks/js/fb.js",
+		"/C/xampp2/htdocs/prospicks/js/jquery.js",
+		"/C/xampp2/htdocs/prospicks/js/main.js",
+		"/C/Users/Aletheia Grace/Desktop/6.323.camiller.rubio.xml",
+		"/C/Users/Aletheia Grace/Desktop/101.321.norman.pillerva.xml",
+		"/C/Users/Aletheia Grace/Desktop/6.133.jraramirez.xml",
+		"/C/xampp2/htdocs/prospicks/application/controllers/reports.php",
+		"/C/xampp2/htdocs/prospicks/application/views/new_subscription.php",
+		"/C/xampp2/htdocs/prospicks/application/models/index.html",
+		"/C/xampp2/htdocs/prospicks/application/models/date.php",
+		"/C/xampp2/htdocs/prospicks/application/controllers/calendar.php",
+		"/C/xampp2/htdocs/prospicks/application/models/calendardata.php",
+		"/C/xampp2/htdocs/prospicks/application/controllers/welcome.php",
+		"/C/xampp2/htdocs/prospicks/application/controllers/settings.php",
+		"/C/xampp2/htdocs/prospicks/application/controllers/dashboard.php",
+		"/C/xampp2/htdocs/prospicks/application/controllers/login.php",
+		"/C/xampp2/htdocs/prospicks/application/views/registration_successful.php",
+		"/C/xampp2/htdocs/prospicks/application/views/forgot_password.php",
+		"/C/xampp2/htdocs/prospicks/application/views/reports_dashboard.php",
+		"/C/xampp2/htdocs/prospicks/js/contact_list.php",
+		"/C/xampp2/htdocs/prospicks/js/db_retrieve.js",
+		"/C/xampp2/htdocs/prospicks/js/db_request.php",
+		"/C/xampp2/htdocs/prospicks/js/db_credentials.php",
+		"/C/xampp2/htdocs/vetrich/js/db_retrieve.js",
+		"/C/xampp2/htdocs/prospicks/application/controllers/reporting.php",
+		"/C/xampp2/htdocs/prospicks/application/views/index.html",
+		"/C/xampp2/htdocs/prospicks/application/views/search_waiting.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/calendar.php",
+		"/C/Users/Aletheia Grace/Dropbox/Web/prospicks/antonn_cute/0413/dashboard.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/generated_calendar.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/profile.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/prospects.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/models/clientdata.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/reports.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/reports_dashboard.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/header.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/search.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/index.html",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/search.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/reporting.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/reporting.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/search_history.php",
+		"/C/Users/Aletheia Grace/Desktop/Barbie Movies List.txt",
+		"/C/Users/Aletheia Grace/Desktop/Barbie Movies List",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/search_results.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/forgot_password.php",
+		"/G/Files/Resources/Installers/Games/The Sims 3/8-The Sims 3 Generations.iso",
+		"/D/Work/Pros-picks/Technical/prospicks/application/models/email.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/users.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/models/userdata.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/login.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/renewal_successful.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/new_subscription.php",
+		"/C/Users/Aletheia Grace/Dropbox/Web/prospicks/antonn_cute/0316/index.html",
+		"/D/Work/top-margin/othercontents.txt",
+		"/C/Users/Aletheia Grace/Dropbox/Web/prospicks/antonn_cute/0316/dashboard.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/user_management.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/logout.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/register_user.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/config/autoload.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/controllers/dashboard.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/dashboard.php",
+		"/D/Work/Pros-picks/Technical/prospicks/js/main.js",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/settings.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/search_waiting.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/registration_successful.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/referrals.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/login.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/change_forgotten_password.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/change_password_successful.php",
+		"/C/Users/Aletheia Grace/Dropbox/Web/prospicks/antonn_cute/0310/index.html",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/footer.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/approve_users.php",
+		"/C/Users/Aletheia Grace/Dropbox/Web/prospicks/antonn_cute/0310/dashboard.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/dashboard_footer.php",
+		"/D/Work/Pros-picks/Technical/prospicks/application/views/dashboard_header.php",
+		"/D/Work/Pros-picks/Technical/prospicks/style/main.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"splash",
+			"padding",
+			"h1",
+			"vh",
+			"padding",
+			"spacer",
+			"main",
+			"run_search_executable",
+			"get_search_results",
+			"send_administrators_alarm_unsuccessful_search",
+			"get_search_results",
+			"query_facebook",
+			"linked",
+			"first_name",
+			"'s Network",
+			"send_administrators_user_approval_request",
+			"get_query_network",
+			";\n",
+			"get_query_network",
+			"get_all_user_accounts_by_country",
+			"var_dump",
+			"set_user_facebook_id",
+			"facebook_id",
+			"approve",
+			"get_all_search_sessions",
+			"'string'",
+			"get_all_user_accounts",
+			"country",
+			"log_search_session",
+			"get_search_session",
+			"add_to_database",
+			"if (isset($results) && $results != false)\n							{\n								$results['categories'] = $this->ClientData->get_categories();\n								$results['session_id'] = $search_session->result(0)[0]['id'];\n								\n								// Add search query to facebook accounts table and update query's Facebook ID in search session table.\n								$this->ClientData->add_to_database($results, $results['session_id'], $results['categories'], true);\n\n								echo \"Data has been parsed!<br />\";\n\n								redirect('search/results/' . $results['session_id']);\n							}\n\n							var_dump($results);\n							\n							if (isset($results['network']) && $results['network'] != false)\n							{\n								rsort($results['network']);\n								$results['network'] = $this->ClientData->store_to_database($results['network'], $results['session_id']);\n								\n								echo \"Results are now added to the database.<br />\";\n								redirect('search/results/' . $results['session_id']);\n							}\n							else\n							{\n								// Finished parsing but the result is empty.\n								$this->ClientData->update_empty_result_flag($search_session->result(0)[0]['id']);\n\n								echo \"Empty result flag is now set to true.<br />\";\n								\n								$this->load->model('Email');\n\n								$administrators = $this->UserData->get_all_administrators();\n								\n								if ($administrators->num_rows() > 0)\n								{\n									foreach ($administrators->result() as $administrator)\n									{\n										if (isset($results['username']))\n											$result_username = $results['username'];\n										else $result_username = '';\n\n										if (isset($facebook_username) AND $facebook_username != '')\n											$result_fb_username = $facebook_username;\n										else\n											$result_fb_username = '';\n\n										$this->Email->send_administrators_alarm_unsuccessful_search(\n												$administrator->email,\n												$administrator->realname,\n												$result_username,\n												$facebook_username,\n												$result_fb_username,\n												$search_session->result(0)[0]['query_local_fb_id'],\n												$search_session->result(0)[0]['filename']\n											);\n									}\n								}\n								\n								echo \"Sending mail to the administrators that the result is empty.<br />\";\n								//redirect('search/results/' . $results['session_id']);\n							}\n						}\n					}",
+			"log_search_session",
+			"get_latest_search_session_of_query",
+			"search_sessions",
+			"href",
+			"add_to_education",
+			"get_query_network",
+			"get_user_subscription",
+			"approve_user_subscriptions",
+			"get_user_account",
+			"get_network",
+			"get_user_subscription",
+			"send_user_approval_confirmation",
+			"prospicks",
+			"add_new_",
+			"add_users",
+			"register",
+			"add_prospect_to_calendar",
+			"CalendarData",
+			"get_categ",
+			"$category",
+			"user_already_exists",
+			"send_user_subscription_approval_confirmation",
+			"send_user_approval_confirmation",
+			"approve",
+			"get_query_information",
+			"change_forgotten_password",
+			"send_generated_key",
+			"password",
+			"username",
+			"update_event_in_database",
+			"get_agent_events_by_type_and_time_period",
+			"event",
+			"add_subscription",
+			"get_user_subscriptions",
+			"renewal_successful",
+			"email",
+			"\n							else if ($event_name == \"appointment\")\n								$icon = \"fa fa-coffee\";",
+			"Getting",
+			"calendar",
+			"profile",
+			"send_administrators_alarm_unsuccessful_search",
+			"search_results",
+			"add_subscription",
+			"send_administrators_alarm_unsuccessful_search",
+			"send_administrators_alarm",
+			"send_user_approval",
+			"allow_entry_based_on_subscription_validity",
+			"amount_paid",
+			"add_new_user",
+			"bank_transaction_no",
+			"add_subscription",
+			"DateTime",
+			"str_to",
+			"strtotime",
+			"get_all_search_sessions",
+			"$this->log",
+			"$this->get",
+			"users/profile",
+			"$facebook_username",
+			"$this->",
+			"approval_queue",
+			"add_referral_to_database",
+			"\n						echo \"<p>Initiating debugging mechanism for Administrators.</p>\";",
+			">\";\n",
+			"print_debugger"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/paperplanes/index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Work/top-margin/Layout/tm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
